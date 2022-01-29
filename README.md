@@ -3,9 +3,9 @@
 <h3 align="center">A passionate Web Developer!</h3>
 
 
-- 🔭 I’m currently Web Developer
+- 🔭 I’m currently Web Developer .
 - 🌱 I’m currently working on my Personal Projects in React.
-- 👯 I’m looking to collaborate on MERN Stack Projects
+- 👯 I’m looking to collab with some ui/ux designer.
 - 📫 How to reach me: Gmail - abhiramshelkar5@gmail.com
 - ⚡ Fun fact: I Spend almost 0 hours in coding ...
 
