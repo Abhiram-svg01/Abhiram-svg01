@@ -7,12 +7,13 @@
 - 🌱 I’m currently working on my Personal Projects in React.
 - 👯 I’m looking to collaborate on MERN Stack Projects
 - 📫 How to reach me: Gmail - abhiramshelkar5@gmail.com
-- ⚡ Fun fact: I Spend almost 12 hours in coding different MERN stack projects
+- ⚡ Fun fact: I Spend almost 0 hours in coding ...
 
 ### Languages
 
-![C++](https://img.shields.io/badge/CPP-3178C6?style=for-the-badge&logo=C++&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![python](https://img.shields.io/badge/Pyhton-323330?style=for-the-badge&logo=python&logoColor=F7DF1E)
+![java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=F7DF1E)
 
 
 ### Front-End Development
