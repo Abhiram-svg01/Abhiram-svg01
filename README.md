@@ -1,28 +1,26 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"> , I'm Abhiram Shelkar
 
-<h3 align="center">A passionate Web Developer!</h3>
+<h3 align="center">On a way to become cyber security analyst!</h3>
 
 
-- 🔭 I’m currently Web Developer .
-- 🌱 I’m currently working on my Personal Projects in React.
-- 👯 I’m looking to collab with some ui/ux designer.
+- 🔭 I’m currently network security enginner.
+- 🌱 I’m currently working on my Personal Projects on linux os.
+- 👯 I’m looking to collab with some passionate cybersecurity professionals.
 - 📫 How to reach me: Gmail - abhiramshelkar5@gmail.com
-- ⚡ Fun fact: I Spend almost 0 hours in coding ...
+- ⚡ Fun fact: I Spend almost 0 hours in studying ...
 
 ### Languages
 
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![php](https://img.shields.io/badge/Php-323330?style=for-the-badge&logo=php&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Pyhton-323330?style=for-the-badge&logo=python&logoColor=F7DF1E)
 ![java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=F7DF1E)
+![sql](https://img.shields.io/badge/sql-323330?style=for-the-badge&logo=sql&logoColor=F7DF1E)
 
 
-### Front-End Development
+### Operating Systems
 
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend 
-![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![linux](https://img.shields.io/badge/linux-E34F26?style=for-the-badge&logo=linux&logoColor=white)
+![windows](https://img.shields.io/badge/windows-1572B6?style=for-the-badge&logo=windows&logoColor=white)
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Abhiram-svg01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
