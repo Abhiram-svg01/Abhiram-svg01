@@ -1,13 +1,13 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"> , I'm Abhiram Shelkar
 
-<h3 align="center">On a way to become cyber security analyst!</h3>
+<h3 align="center">Web Developer!</h3>
 
 
-- 🔭 I’m currently network security enginner.
-- 🌱 I’m currently working on my Personal Projects on linux os.
-- 👯 I’m looking to collab with some passionate cybersecurity professionals.
+- 🔭 I’m currently frontend developer.
+- 🌱 I’m currently working on Projects with Hatchfast.dev
+- 👯 I’m looking forward to strenghten skills.
 - 📫 How to reach me: Gmail - abhiramshelkar5@gmail.com
-- ⚡ Fun fact: I Spend almost 0 hours in studying ...
+- ⚡ Fun fact: I Spend almost 0 hours in coding ...
 
 ### Languages
 
