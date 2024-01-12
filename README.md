@@ -3,7 +3,7 @@
 <h3 align="center">Web Developer!</h3>
 
 
-- 🔭 I’m currently frontend developer.
+- 🔭 I’m a frontend developer.
 - 🌱 I’m currently working on Projects with Hatchfast.dev
 - 👯 I’m looking forward to strenghten skills.
 - 📫 How to reach me: Gmail - abhiramshelkar5@gmail.com
