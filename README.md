@@ -1,10 +1,10 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"> , I'm Abhiram Shelkar
 
-<h3 align="center">Full Stack Developer!</h3>
+<h3 align="center">Cyber Security Engineer</h3>
 
 
-- 🔭 I’m a full stack developer.
-- 🌱 I’m currently working on Projects with Hatchfast
+- 🔭 I’m a Cyber Security Engineer.
+- 🌱 I’m currently pursuing master's degree at WMU
 - 👯 I’m looking forward to strengthening my skills.
 - 📫 How to reach me: Gmail - abhiramshelkar5@gmail.com
 - ⚡ Fun fact: I Spend almost 0 hours in coding ...
