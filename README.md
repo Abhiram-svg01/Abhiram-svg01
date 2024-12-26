@@ -14,7 +14,6 @@
 ![php](https://img.shields.io/badge/Php-323330?style=for-the-badge&logo=php&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Pyhton-323330?style=for-the-badge&logo=python&logoColor=F7DF1E)
 ![java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=F7DF1E)
-![sql](https://img.shields.io/badge/sql-323330?style=for-the-badge&logo=sql&logoColor=F7DF1E)
 
 
 ### Operating Systems
