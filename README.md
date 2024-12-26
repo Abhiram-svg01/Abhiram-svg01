@@ -3,31 +3,30 @@
 <h3 align="center">Cyber Security Engineer</h3>
 
 
-- 🔭 I’m a Cyber Security Engineer.
-- 🌱 I’m currently pursuing master's degree at WMU
-- 👯 I’m looking forward to strengthening my skills.
-- 📫 How to reach me: Gmail - abhiramshelkar5@gmail.com
-- ⚡ Fun fact: I Spend almost 0 hours in coding ...
-
-### Languages
-
-![php](https://img.shields.io/badge/Php-323330?style=for-the-badge&logo=php&logoColor=F7DF1E)
-![python](https://img.shields.io/badge/Pyhton-323330?style=for-the-badge&logo=python&logoColor=F7DF1E)
-![java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=F7DF1E)
+# 💫 About Me:
+🔭I’m a Cyber Security Engineer.<br>🌱 I’m currently pursuing master's degree at WMU<br>👯 I’m looking forward to strengthening my skills.<br>📫 How to reach me: Gmail - abhiramshelkar5@gmail.com<br>⚡ Fun fact: I Spend almost 0 hours in coding ...
 
 
-### Operating Systems
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhiram-shelkar3/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/19599135/abhiram-shelkar) 
 
-![linux](https://img.shields.io/badge/linux-E34F26?style=for-the-badge&logo=linux&logoColor=white)
-![windows](https://img.shields.io/badge/windows-1572B6?style=for-the-badge&logo=windows&logoColor=white)
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abhiram-svg01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Abhiram-svg01&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiram-svg01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Abhiram-svg01&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhiram-svg01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Abhiram-svg01&limit=5&theme=holi&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Abhiram-svg01&icon=5&color=12)](https://visitcount.itsvg.in)
 
-## 🔗 Links
-
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/abhiram-shelkar-4891631b8/)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Abhiram-svg01)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:abhiramshelkar5@gmail.com)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
