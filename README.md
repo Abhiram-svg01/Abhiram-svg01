@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭I’m a Cyber Security Engineer.<br>🌱 I’m currently pursuing master's degree at WMU<br>👯 I’m looking forward to strengthening my skills.<br>📫 How to reach me: Gmail - abhiramshelkar5@gmail.com<br>⚡ Fun fact: I Spend almost 0 hours in coding ...
+🔭I’m a Cyber Security Enthusiast.<br>🌱 I’m currently pursuing master's degree at WMU<br>👯 I’m looking forward to strengthening my skills.<br>📫 How to reach me: Gmail - abhiramshelkar5@gmail.com<br>⚡ Fun fact: I Spend almost 0 hours in coding ...
 
 
 ## 🌐 Socials:
